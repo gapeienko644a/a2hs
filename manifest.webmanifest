@@ -1,0 +1,15 @@
+{
+  "background_color": "green",
+  "description": "description text",
+  "display": "fullscreen",
+  "icons": [
+    {
+      "src": "icon/page-icon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ],
+  "name": "name text",
+  "short_name": "shortnametext",
+  "start_url": "/a2hs/index.html"
+}
