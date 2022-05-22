@@ -21,5 +21,5 @@ fetch(EngUrl)
     return response.text;
   })
   .then((data) => {
-    console.log(data);
+    alert(data);
   });
