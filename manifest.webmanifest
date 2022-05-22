@@ -1,5 +1,5 @@
 {
-  "background_color": "green",
+  "background_color": "white",
   "description": "description text",
   "display": "fullscreen",
   "icons": [
@@ -10,6 +10,6 @@
     }
   ],
   "name": "name text",
-  "short_name": "shortnametext",
+  "short_name": "ArtemTools",
   "start_url": "/a2hs/index.html"
 }
